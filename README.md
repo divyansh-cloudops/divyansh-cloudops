@@ -25,7 +25,11 @@ Cloud & DevOps Engineer | AWS | Docker | Linux | Kubernetes
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,python,terraform,bash,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,python,terraform" />
+</p>
+
+<p align="center">
+AWS • Docker • Kubernetes • Linux • Git • GitHub • Python • Terraform
 </p>
 
 <p align="center">
