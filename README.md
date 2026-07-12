@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/banner.png" alt="Divyansh Saini Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Divyansh Saini</h1>
 
 <h3 align="center">
