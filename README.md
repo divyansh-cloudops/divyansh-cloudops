@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Divyansh Saini</h1>
 
-<!--
-**divyansh-cloudops/divyansh-cloudops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Cloud & DevOps Engineer | AWS | Docker | Linux | Kubernetes
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌱 Currently learning **AWS, Docker, Kubernetes & Terraform**
+- 💻 Passionate about Cloud Computing & DevOps
+- 🎯 Goal: Become a Professional Cloud & DevOps Engineer
+- 📍 India
+
+---
+
+## 🛠️ Tech Stack
+
+- ☁️ AWS
+- 🐳 Docker
+- 🐧 Linux
+- 🌿 Git & GitHub
+- 🐍 Python
+- ⚙️ Terraform (Learning)
+- ☸️ Kubernetes (Learning)
