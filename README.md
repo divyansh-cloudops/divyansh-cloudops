@@ -170,32 +170,7 @@ GitHub
 
 ---
 
-# 📈 2026 Learning Roadmap
-
-```text
-✅ AWS Fundamentals
-
-✅ Linux
-
-✅ Git
-
-🔄 Docker
-
-🔄 Kubernetes
-
-🔄 Terraform
-
-🔄 Jenkins
-
-⬜ GitHub Actions
-
-⬜ AWS ECS
-
-⬜ AWS EKS
-```
-
----
-
+ 
 # 🌐 Connect With Me
 
 <p align="left">
