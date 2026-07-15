@@ -2,8 +2,8 @@
    <img src="banner.png" alt="Divyansh Saini Banner" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=800&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;Linux+Enthusiast;Building+Scalable+Cloud+Solutions" alt="Typing SVG" />
+ <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;Linux+%7C+Git+%7C+GitHub;Python+%7C+Terraform;Always+Learning+New+Technologies" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Divyansh Saini</h1>
