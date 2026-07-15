@@ -200,13 +200,13 @@ GitHub
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/divyanshsaini14/">
 
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="divyanshsaini327@gmail.com">
 
 <img src="https://skillicons.dev/icons?i=gmail"/>
 
