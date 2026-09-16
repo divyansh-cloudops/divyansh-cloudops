@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="Divyansh Saini Banner"/>
+  <img src="profile.jpeg" width="100%" alt="Divyansh Saini Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Divyansh Saini</h1>
