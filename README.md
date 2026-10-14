@@ -1,189 +1,92 @@
-<p align="center">
-  <img src="banner.png" width="100%" alt="Divyansh Saini Banner"/>
-</p>
+<!-- ================= HEADER ================= --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Divyansh%20Saini&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Cloud%20%26%20DevOps%20Engineer&descAlignY=58&descSize=22" width="100%"/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=☁️+AWS+%7C+Terraform+%7C+Docker+%7C+CI%2FCD;🔐+Cloud+Security+%26+Cost+Optimization;⚙️+Automating+Infrastructure+the+DevOps+Way;🚀+Building+Secure+%26+Scalable+Cloud+Environments" alt="Typing SVG" /> </a> <br/> <img src="https://img.shields.io/badge/Profile%20Views-divyansh--cloudops-00d4ff?style=for-the-badge&logo=github&logoColor=white"/> <a href="https://www.linkedin.com/in/divyanshsaini14"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:divyanshsaini327@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/divyansh-cloudops"><img src="https://img.shields.io/github/followers/divyansh-cloudops?style=for-the-badge&logo=github&label=Followers&color=2c5364"/></a> </div>
+👨‍💻 About Me
+yaml
+name:        Divyansh Saini
+role:        DevOps Intern → Aspiring Cloud & DevOps Engineer
+education:   B.Tech CSE @ Roorkee Institute of Technology (2023 – 2027)
+focus:       AWS • Terraform • Docker • CI/CD • Cloud Security
+currently:   Building hands-on AWS & IaC projects
+goal:        Land a Cloud / DevOps Engineer role 🎯
 
-<h1 align="center">Hi 👋, I'm Divyansh Saini</h1>
+I'm an aspiring Cloud & DevOps Engineer with hands-on experience in AWS infrastructure, Infrastructure as Code (Terraform), Docker, CI/CD, cloud security and monitoring through practical projects. I enjoy building secure, scalable and automated cloud environments, with a strong focus on automation and reliability.
 
-<h3 align="center">
-Cloud & DevOps Engineer • AWS • Docker • Kubernetes • Terraform
-</h3>
+🛠️ Tech Stack & Skills
+☁️ Cloud Platforms
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=850&lines=Cloud+Engineer;DevOps+Enthusiast;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Linux+%7C+Python;Always+Learning+New+Technologies"/>
-</p>
+Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image
 
----
+⚙️ Infrastructure as Code & CI/CD
 
-# 🚀 About Me
+Show Image Show Image Show Image
 
-```yaml
-Name: Divyansh Saini
+🐳 Containers & Orchestration
 
-Role: Cloud & DevOps Engineer
+Show Image Show Image Show Image Show Image
 
-Location: India
+🔐 Monitoring, Security & Compliance
 
-Learning:
-  - AWS
-  - Docker
-  - Kubernetes
-  - Terraform
+Show Image Show Image Show Image
 
-Goal:
-  Become a Professional Cloud & DevOps Engineer
-```
+💻 Programming, Scripting & Tools
 
----
+Show Image Show Image Show Image Show Image Show Image
 
-# ☁ Cloud Platform
+💼 Experience
+🚀 DevOps Intern — 10xTechHub  |  Remote (Hyderabad, Telangana, India)
 
-<p align="center">
+📅 March 2026 – May 2026
 
-<img src="https://skillicons.dev/icons?i=aws"/>
+🔄 Assisted in designing and maintaining CI/CD pipelines using Jenkins and GitHub Actions, streamlining deployment workflows and improving release efficiency.
+🖥️ Managed and monitored Linux servers and cloud infrastructure, ensuring reliability, uptime and smooth day-to-day operations.
+🐳 Containerized applications with Docker and gained hands-on exposure to Kubernetes fundamentals.
+🤝 Collaborated with dev teams using Git/GitHub, troubleshooting deployment issues and optimizing infrastructure workflows.
+☁️ Used AWS services and monitoring tools while applying IaC and automation best practices.
+🚀 Featured Projects
+<table> <tr> <td width="50%" valign="top">
+🔐 AWS Security Hardening & Cost Optimization
 
-</p>
+AWS IAM EC2 S3 EBS AWS Config CloudTrail CloudWatch AWS Budgets
 
----
+Built an end-to-end AWS Security Audit environment to detect & fix misconfigurations
+Resolved 5 critical issues: public S3 buckets, over-permissive IAM, unencrypted EBS, exposed Security Groups, IAM users without MFA
+Implemented least-privilege IAM, MFA, S3 Block Public Access & KMS encryption
+Enabled AWS Config, CloudTrail & CloudWatch for compliance, audit & visibility
+Tracked spend with AWS Budgets & Cost Explorer
 
-# ☁ AWS Services
+Repo
 
-| Compute | Storage | Monitoring | Security |
-|---------|----------|------------|------------|
-| EC2 | S3 | CloudWatch | IAM |
-| ECS | EBS | CloudTrail | AWS Config |
-| Elastic Beanstalk | | | |
+</td> <td width="50%" valign="top">
+🏗️ AWS VPC + EC2 + Nginx with Terraform
 
----
+AWS Terraform VPC EC2 Nginx IAM Security Groups
 
-# ⚙ DevOps Stack
+Provisioned a custom VPC with public subnets, route tables & Internet Gateway via Terraform
+Automated EC2 + Nginx deployment with zero manual configuration
+Wrote modular, reusable .tf files to cut deployment time & avoid config drift
+Locked down access with Security Groups & IAM least-privilege (HTTP & SSH only)
+One-command, reproducible deployments with full Git version control
 
-<p align="center">
+Repo
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins"/>
+</td> </tr> </table>
+📊 GitHub Stats
+<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=divyansh-cloudops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh-cloudops&layout=compact&theme=tokyonight&hide_border=true" /> <br/> <img src="https://streak-stats.demolab.com?user=divyansh-cloudops&theme=tokyonight&hide_border=true" /> </div>
+🎓 Education
 
-</p>
+🎒 B.Tech in Computer Science & Engineering — Roorkee Institute of Technology, Roorkee (2023 – 2027)
 
----
+🎯 Currently Focusing On
+🔭 Deepening AWS (ECS, Lambda, CloudFront, Auto Scaling)
+🧱 Writing more Terraform modules & real-world IaC projects
+☸️ Moving from Kubernetes fundamentals to hands-on orchestration
+🔄 Building end-to-end CI/CD pipelines with GitHub Actions
+🤝 Let's Connect
+<div align="center">
 
-# 💻 Programming & OS
+<a href="https://www.linkedin.com/in/divyanshsaini14"><img src="https://img.shields.io/badge/LinkedIn-divyanshsaini14-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/divyansh-cloudops"><img src="https://img.shields.io/badge/GitHub-divyansh--cloudops-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="mailto:divyanshsaini327@gmail.com"><img src="https://img.shields.io/badge/Email-divyanshsaini327@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<p align="center">
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,bash,linux"/>
+"Automate everything. Secure by default. Ship with confidence." ⚡
 
-</p>
-
----
-
-# 🌿 Version Control
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github"/>
-
-</p>
-
----
-
-# 🛠 Skills Summary
-
-```text
-☁ Cloud
-AWS
-
-☁ AWS Services
-EC2
-ECS
-EBS
-S3
-IAM
-CloudWatch
-CloudTrail
-AWS Config
-Elastic Beanstalk
-
-⚙ DevOps
-Docker
-Kubernetes
-Terraform
-Jenkins
-
-💻 Programming
-Python
-Bash
-
-🐧 Operating System
-Linux
-
-🌿 Version Control
-Git
-GitHub
-```
-
----
-
- 
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=divyansh-cloudops&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📌 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| ☁ AWS EC2 Web Server | Apache Web Server on EC2 |
-| 🐳 Docker Projects | Docker Hands-on Labs |
-| ☸ Kubernetes Labs | Pods, Deployments & Services |
-| 🌍 Terraform | Infrastructure as Code |
-| ⚙ Jenkins | CI/CD Pipelines |
-| 🐧 Linux | Linux Commands & Administration |
-| 🐍 Python | Automation Scripts |
-
----
-
-# 📚 Currently Learning
-
-- AWS ECS
-- Kubernetes
-- Terraform
-- Jenkins
-- Docker Compose
-- Linux Shell Scripting
-- GitHub Actions
-
----
-
- 
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/divyanshsaini14/">
-
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-
-</a>
-
-<a href="divyanshsaini327@gmail.com">
-
-<img src="https://skillicons.dev/icons?i=gmail"/>
-
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-⭐ If you like my work, don't forget to star my repositories ⭐
-
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/> </div>
