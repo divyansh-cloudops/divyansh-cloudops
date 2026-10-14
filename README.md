@@ -1,94 +1,218 @@
-<p align="center"> <img src="banner.png" width="100%" alt="Divyansh Saini Banner"/> </p> <h1 align="center">Hi 👋, I'm Divyansh Saini</h1> <h3 align="center"> ☁️ Cloud & DevOps Engineer &nbsp;•&nbsp; AWS &nbsp;•&nbsp; Docker &nbsp;•&nbsp; Kubernetes &nbsp;•&nbsp; Terraform </h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=$+terraform+apply+-auto-approve;Building+Secure+%26+Scalable+Cloud+Infrastructure;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+%7C+Linux+%7C+Python+%7C+Bash;Always+Learning%2C+Always+Automating"/> </p> <p align="center"> <a href="https://www.linkedin.com/in/divyanshsaini14/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:divyanshsaini327@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/divyansh-cloudops?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <img src="https://komarev.com/ghpvc/?username=divyansh-cloudops&label=Profile%20Views&color=0e75b6&style=for-the-badge"/> </p> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,50:6366f1,100:a855f7&height=2&section=header" width="100%"/>
-🚀 About Me
-<table> <tr> <td width="190" align="center" valign="top"> <img src="https://github.com/divyansh-cloudops.png" width="150" style="border-radius:50%"/> <br/><b>Divyansh Saini</b> <br/><sub>Cloud & DevOps Engineer</sub> </td> <td valign="top">
-yaml
-name:       Divyansh Saini
-role:       Cloud & DevOps Engineer (DevOps Intern @ 10xTechHub)
-education:  B.Tech CSE @ Roorkee Institute of Technology (2023 - 2027)
-location:   India 🇮🇳
-focus:      AWS • Terraform • Docker • CI/CD • Cloud Security
-learning:   [ECS, Kubernetes, Jenkins, GitHub Actions, Docker Compose]
-goal:       Become a Professional Cloud & DevOps Engineer
-</td> </tr> </table>
+👋 Hey, I'm Gahna Vishnani
+🤖 AI Full-Stack Engineer
+Building intelligent, scalable & production-ready applications
 
-I build secure, scalable and automated cloud environments on AWS using Terraform, Docker and CI/CD pipelines, with hands-on experience in cloud security, monitoring and cost optimization.
+  
 
-⚡ How I Ship
-feedback
-💻 Git Push
-⚙️ GitHub Actions / Jenkins
-🐳 Docker Build
-🏗️ Terraform Apply
-☁️ AWS: EC2 · VPC · ALB
-📈 CloudWatch · CloudTrail· Config
-🛠️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,githubactions,linux,bash,python,git,github&perline=11"/> </p>
-☁️ Compute & Network	🗄️ Storage & DB	📈 Monitoring	🔐 Security
-EC2 · ECS · Lambda	S3 · EBS · RDS	CloudWatch	IAM · KMS · MFA
-VPC · ALB · Auto Scaling	CloudFront	CloudTrail	AWS Config
-Elastic Beanstalk		AWS Budgets	Security Groups
-⚙️ DevOps	💻 Programming & OS	🌿 Version Control
-Docker · Docker Compose	Python · Bash	Git
-Kubernetes (Fundamentals)	Linux	GitHub
-Terraform · Jenkins · GitHub Actions		
+  
+
+🧠 About Me
+I'm a B.Tech CSE student preparing to become an AI Full-Stack Engineer.
+
+I enjoy building complete applications that bring together:
+
+Frontend → Backend → Databases → Data → AI → Cloud
+
+I'm particularly interested in Generative AI, LLM-powered applications, intelligent APIs, scalable backend systems, and modern data architectures.
+
+🎯 Current Goal
+AI Full-Stack Engineering
+
+🤖 AI
+GenAI • LLMs • RAG • NLP • Embeddings
+
+🌐 Full Stack
+React • JavaScript • Node.js • Express • FastAPI
+
+🗄️ Data
+Python • SQL • PostgreSQL • MongoDB • PySpark
+
+☁️ Cloud & Engineering
+Azure • Databricks • Snowflake • Airflow • Docker • Git
+⚡ Tech Stack
+🤖 AI & GenAI
+
+
+Generative AI LLMs RAG Prompt Engineering NLP OCR Embeddings Vector Search Hugging Face Sentence Transformers
+
+🌐 Full-Stack Development
+
+
+React.js JavaScript Node.js Express.js FastAPI REST APIs Authentication Frontend Architecture Backend Development
+
+🐍 Programming & Databases
+
+
+Languages
+
+Python Java JavaScript SQL
+
+Databases
+
+PostgreSQL MongoDB MySQL
+
+📊 Data Engineering
+
+
+PySpark Databricks Snowflake Apache Airflow dbt ETL / ELT Data Pipelines Data Warehousing Data Modeling
+
+☁️ Cloud & DevOps
+
+
+Microsoft Azure Docker Git GitHub CI/CD
+
+📈 Analytics
+Power BI Pandas NumPy Matplotlib
+
+🚀 What I'm Building
+I'm focused on building end-to-end AI applications rather than isolated demos.
+
+                     ┌────────────────────┐
+                     │      USER          │
+                     └─────────┬──────────┘
+                               ↓
+                     ┌────────────────────┐
+                     │   React Frontend   │
+                     └─────────┬──────────┘
+                               ↓
+                     ┌────────────────────┐
+                     │   Backend / APIs   │
+                     │ FastAPI / Node.js  │
+                     └─────────┬──────────┘
+                               ↓
+              ┌────────────────┴────────────────┐
+              ↓                                 ↓
+      ┌────────────────┐              ┌────────────────┐
+      │   Databases    │              │   AI Layer     │
+      │ PostgreSQL     │              │ LLM / RAG      │
+      │ MongoDB        │              │ Embeddings     │
+      └────────────────┘              └────────────────┘
+              ↓                                 ↓
+              └────────────────┬────────────────┘
+                               ↓
+                     ┌────────────────────┐
+                     │ Cloud / Deployment │
+                     │ Azure / Docker     │
+                     └────────────────────┘
 💼 Experience
-🚀 DevOps Intern — 10xTechHub
+💻 Technical Intern
+Worked on full-stack web development and internal application development, contributing to multiple real-world projects.
 
-<sub>📍 Remote (Hyderabad, India)  •  🗓️ March 2026 – May 2026</sub>
+🌐 Developed and enhanced full-stack web applications
+🔐 Built user registration and login systems
+📊 Developed an interactive dashboard for application data and workflows
+🚀 Built SociaNova, a full-stack social media application
+🔗 Integrated and consumed REST APIs for application functionality
+⚙️ Worked across both frontend and backend development
+🗄️ Worked with databases and application data
+🧩 Debugged, tested, and improved application features
+Tech: React JavaScript Node.js Express.js REST APIs MongoDB HTML CSS
 
-🔄 Assisted in designing and maintaining CI/CD pipelines with Jenkins and GitHub Actions
-🖥️ Managed and monitored Linux servers and cloud infrastructure for reliability and uptime
-🐳 Containerized applications with Docker; hands-on with Kubernetes fundamentals
-🤝 Collaborated via Git/GitHub, troubleshooting deployments and optimizing workflows
-☁️ Used AWS and monitoring tools while applying IaC and automation best practices
-📌 Featured Projects
-<table> <tr> <td width="50%" valign="top">
-🔐 AWS Security Hardening & Cost Optimization
+📊 Data Engineering Intern
+Worked on real-world data engineering and analytics workflows, gaining experience with production-oriented data systems.
 
-AWS IAM EC2 S3 EBS Config CloudTrail CloudWatch Budgets
+⚡ Worked with Databricks & PySpark
+☁️ Built/worked with Azure Data Pipelines
+🔄 Worked on ETL / ELT workflows
+🌀 Developed and worked with Apache Airflow DAGs
+🗄️ Wrote SQL queries for data processing and analytics
+📊 Worked on Power BI dashboards
+🔍 Investigated data quality, freshness, and pipeline issues
+🛠️ Worked on production data troubleshooting and monitoring
+Tech: Python SQL PySpark Databricks Azure Airflow Power BI Snowflake dbt
 
-Built an end-to-end AWS security audit environment
-Fixed 5 critical issues: public S3, over-permissive IAM, unencrypted EBS, exposed Security Groups, no MFA
-Applied least-privilege IAM, MFA, Block Public Access, KMS
-Enabled Config + CloudTrail + CloudWatch; tracked cost with Budgets
+🎯 What these experiences represent
+Full-Stack Development → Frontend + Backend + APIs + Databases
 
-Repo
+Data Engineering → ETL + PySpark + Databricks + SQL + Cloud + Orchestration
 
-</td> <td width="50%" valign="top">
-🏗️ AWS VPC + EC2 + Nginx (Terraform)
+AI Engineering → GenAI + AI-powered applications + intelligent APIs
 
-AWS Terraform VPC EC2 Nginx IAM Security Groups
+Together, these experiences support my goal of becoming an AI Full-Stack Engineer capable of building applications end-to-end.
 
-Provisioned custom VPC, subnets, routes and IGW via Terraform
-Fully automated EC2 + Nginx deployment
-Modular, reusable .tf files to avoid config drift
-Locked down to HTTP/SSH with least-privilege access
+🌟 Featured Projects
+🩺 Sukhi Suvidha — AI Medical Simplifier
+Making complex medical information easier to understand.
 
-Repo
+An AI-powered application that simplifies medical prescriptions and provides accessible multilingual output.
 
-</td> </tr> </table>
+🔧 Tech
+React FastAPI Python EasyOCR NLP Sentence Transformers gTTS
 
-🧪 More hands-on labs
+✨ Features
+📄 Prescription OCR
+🤖 AI-powered text simplification
+🌍 Multilingual support
+🔊 Text-to-Speech
+⚡ React + FastAPI architecture
+🏆 OpenAI NextWave Buildathon — State-Level Selection
 
-Project	Description
-☁️ AWS EC2 Web Server	Apache web server on EC2
-🐳 Docker Projects	Docker hands-on labs
-☸️ Kubernetes Labs	Pods, Deployments & Services
-⚙️ Jenkins	CI/CD pipelines
-🐧 Linux	Commands & administration
-🐍 Python	Automation scripts
-📊 GitHub Analytics
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=divyansh-cloudops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh-cloudops&layout=compact&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=divyansh-cloudops&theme=tokyonight&hide_border=true"/> </p>
+🏦 GenEthix — AI Banking Platform
+Intelligent banking experience powered by AI.
+
+A full-stack AI banking application combining modern web development with intelligent features.
+
+🔧 Tech
+React Node.js Express MongoDB GenAI
+
+✨ Focus
+🌐 Full-stack architecture
+🤖 AI integration
+🔐 Backend APIs
+🗄️ Database management
+📱 Responsive UI
+🛒 Retail Data Engineering Platform
+End-to-end data engineering architecture.
+
+A production-style data platform designed around a modern Bronze → Silver → Gold architecture.
+
+🔧 Tech
+Python SQL PostgreSQL PySpark Airflow dbt Snowflake Docker
+
+🏗️ Architecture
+Raw Data
+   ↓
+🥉 Bronze
+   ↓
+🥈 Silver
+   ↓
+🥇 Gold
+   ↓
+Analytics / BI
+The project focuses on data ingestion, transformation, orchestration, data quality, and analytics-ready datasets.
+
+🏆 Achievements
+🏅 OpenAI NextWave Buildathon Selected for State-Level Buildathon
+
+🏅 GHCI AI Hackathon Qualified Round 1
+
+🏅 NxtWave OpenAI Academy Buildathon Qualified Round 1
+
+🏆 RIT Campus Hackathon Top team / Finalist
+
 📚 Currently Learning
-☁️ AWS ECS
-☸️ Kubernetes
-🏗️ Terraform
-⚙️ Jenkins & GitHub Actions
-🐳 Docker Compose
-🐧 Linux Shell Scripting
-🎓 Education
-
-B.Tech in Computer Science & Engineering — Roorkee Institute of Technology, Roorkee  •  2023 – 2027
-
-🌐 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/divyanshsaini14/"><img src="https://img.shields.io/badge/LinkedIn-divyanshsaini14-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:divyanshsaini327@gmail.com"><img src="https://img.shields.io/badge/Email-divyanshsaini327@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p> <p align="center">⭐ If you like my work, don't forget to star my repositories ⭐</p> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b2a4a,50:0a1633,100:050816&height=110&section=footer" width="100%"/>
+                AI FULL-STACK ENGINEERING
+                           │
+          ┌────────────────┼────────────────┐
+          ↓                ↓                ↓
+       Frontend         Backend            AI
+          │                │                │
+       React.js         FastAPI           GenAI
+       JavaScript       Node.js            LLMs
+       Tailwind         REST APIs          RAG
+          │                │             Embeddings
+          └────────────────┼────────────────┘
+                           ↓
+                       DATABASES
+                           │
+                    SQL • PostgreSQL
+                    MongoDB • Vector DB
+                           │
+                           ↓
+                       CLOUD
+                           │
+                     Azure • Docker
+🤝 Let's Connect
+  
+💡 Build. Learn. Break. Fix. Repeat.
+Thanks for visiting my profile! 🚀
