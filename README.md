@@ -1,218 +1,189 @@
-👋 Hey, I'm Gahna Vishnani
-🤖 AI Full-Stack Engineer
-Building intelligent, scalable & production-ready applications
+<p align="center">
+  <img src="banner.png" width="100%" alt="Divyansh Saini Banner"/>
+</p>
 
-  
+<h1 align="center">Hi 👋, I'm Divyansh Saini</h1>
 
-  
+<h3 align="center">
+Cloud & DevOps Engineer • AWS • Docker • Kubernetes • Terraform
+</h3>
 
-🧠 About Me
-I'm a B.Tech CSE student preparing to become an AI Full-Stack Engineer.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=850&lines=Cloud+Engineer;DevOps+Enthusiast;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Linux+%7C+Python;Always+Learning+New+Technologies"/>
+</p>
 
-I enjoy building complete applications that bring together:
+---
 
-Frontend → Backend → Databases → Data → AI → Cloud
+# 🚀 About Me
 
-I'm particularly interested in Generative AI, LLM-powered applications, intelligent APIs, scalable backend systems, and modern data architectures.
+```yaml
+Name: Divyansh Saini
 
-🎯 Current Goal
-AI Full-Stack Engineering
+Role: Cloud & DevOps Engineer
 
-🤖 AI
-GenAI • LLMs • RAG • NLP • Embeddings
+Location: India
 
-🌐 Full Stack
-React • JavaScript • Node.js • Express • FastAPI
+Learning:
+  - AWS
+  - Docker
+  - Kubernetes
+  - Terraform
 
-🗄️ Data
-Python • SQL • PostgreSQL • MongoDB • PySpark
+Goal:
+  Become a Professional Cloud & DevOps Engineer
+```
 
-☁️ Cloud & Engineering
-Azure • Databricks • Snowflake • Airflow • Docker • Git
-⚡ Tech Stack
-🤖 AI & GenAI
+---
 
+# ☁ Cloud Platform
 
-Generative AI LLMs RAG Prompt Engineering NLP OCR Embeddings Vector Search Hugging Face Sentence Transformers
+<p align="center">
 
-🌐 Full-Stack Development
+<img src="https://skillicons.dev/icons?i=aws"/>
 
+</p>
 
-React.js JavaScript Node.js Express.js FastAPI REST APIs Authentication Frontend Architecture Backend Development
+---
 
-🐍 Programming & Databases
+# ☁ AWS Services
 
+| Compute | Storage | Monitoring | Security |
+|---------|----------|------------|------------|
+| EC2 | S3 | CloudWatch | IAM |
+| ECS | EBS | CloudTrail | AWS Config |
+| Elastic Beanstalk | | | |
 
-Languages
+---
 
-Python Java JavaScript SQL
+# ⚙ DevOps Stack
 
-Databases
+<p align="center">
 
-PostgreSQL MongoDB MySQL
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins"/>
 
-📊 Data Engineering
+</p>
 
+---
 
-PySpark Databricks Snowflake Apache Airflow dbt ETL / ELT Data Pipelines Data Warehousing Data Modeling
+# 💻 Programming & OS
 
-☁️ Cloud & DevOps
+<p align="center">
 
+<img src="https://skillicons.dev/icons?i=python,bash,linux"/>
 
-Microsoft Azure Docker Git GitHub CI/CD
+</p>
 
-📈 Analytics
-Power BI Pandas NumPy Matplotlib
+---
 
-🚀 What I'm Building
-I'm focused on building end-to-end AI applications rather than isolated demos.
+# 🌿 Version Control
 
-                     ┌────────────────────┐
-                     │      USER          │
-                     └─────────┬──────────┘
-                               ↓
-                     ┌────────────────────┐
-                     │   React Frontend   │
-                     └─────────┬──────────┘
-                               ↓
-                     ┌────────────────────┐
-                     │   Backend / APIs   │
-                     │ FastAPI / Node.js  │
-                     └─────────┬──────────┘
-                               ↓
-              ┌────────────────┴────────────────┐
-              ↓                                 ↓
-      ┌────────────────┐              ┌────────────────┐
-      │   Databases    │              │   AI Layer     │
-      │ PostgreSQL     │              │ LLM / RAG      │
-      │ MongoDB        │              │ Embeddings     │
-      └────────────────┘              └────────────────┘
-              ↓                                 ↓
-              └────────────────┬────────────────┘
-                               ↓
-                     ┌────────────────────┐
-                     │ Cloud / Deployment │
-                     │ Azure / Docker     │
-                     └────────────────────┘
-💼 Experience
-💻 Technical Intern
-Worked on full-stack web development and internal application development, contributing to multiple real-world projects.
+<p align="center">
 
-🌐 Developed and enhanced full-stack web applications
-🔐 Built user registration and login systems
-📊 Developed an interactive dashboard for application data and workflows
-🚀 Built SociaNova, a full-stack social media application
-🔗 Integrated and consumed REST APIs for application functionality
-⚙️ Worked across both frontend and backend development
-🗄️ Worked with databases and application data
-🧩 Debugged, tested, and improved application features
-Tech: React JavaScript Node.js Express.js REST APIs MongoDB HTML CSS
+<img src="https://skillicons.dev/icons?i=git,github"/>
 
-📊 Data Engineering Intern
-Worked on real-world data engineering and analytics workflows, gaining experience with production-oriented data systems.
+</p>
 
-⚡ Worked with Databricks & PySpark
-☁️ Built/worked with Azure Data Pipelines
-🔄 Worked on ETL / ELT workflows
-🌀 Developed and worked with Apache Airflow DAGs
-🗄️ Wrote SQL queries for data processing and analytics
-📊 Worked on Power BI dashboards
-🔍 Investigated data quality, freshness, and pipeline issues
-🛠️ Worked on production data troubleshooting and monitoring
-Tech: Python SQL PySpark Databricks Azure Airflow Power BI Snowflake dbt
+---
 
-🎯 What these experiences represent
-Full-Stack Development → Frontend + Backend + APIs + Databases
+# 🛠 Skills Summary
 
-Data Engineering → ETL + PySpark + Databricks + SQL + Cloud + Orchestration
+```text
+☁ Cloud
+AWS
 
-AI Engineering → GenAI + AI-powered applications + intelligent APIs
+☁ AWS Services
+EC2
+ECS
+EBS
+S3
+IAM
+CloudWatch
+CloudTrail
+AWS Config
+Elastic Beanstalk
 
-Together, these experiences support my goal of becoming an AI Full-Stack Engineer capable of building applications end-to-end.
+⚙ DevOps
+Docker
+Kubernetes
+Terraform
+Jenkins
 
-🌟 Featured Projects
-🩺 Sukhi Suvidha — AI Medical Simplifier
-Making complex medical information easier to understand.
+💻 Programming
+Python
+Bash
 
-An AI-powered application that simplifies medical prescriptions and provides accessible multilingual output.
+🐧 Operating System
+Linux
 
-🔧 Tech
-React FastAPI Python EasyOCR NLP Sentence Transformers gTTS
+🌿 Version Control
+Git
+GitHub
+```
 
-✨ Features
-📄 Prescription OCR
-🤖 AI-powered text simplification
-🌍 Multilingual support
-🔊 Text-to-Speech
-⚡ React + FastAPI architecture
-🏆 OpenAI NextWave Buildathon — State-Level Selection
+---
 
-🏦 GenEthix — AI Banking Platform
-Intelligent banking experience powered by AI.
+ 
+---
 
-A full-stack AI banking application combining modern web development with intelligent features.
+# 🔥 Contribution Streak
 
-🔧 Tech
-React Node.js Express MongoDB GenAI
+<p align="center">
 
-✨ Focus
-🌐 Full-stack architecture
-🤖 AI integration
-🔐 Backend APIs
-🗄️ Database management
-📱 Responsive UI
-🛒 Retail Data Engineering Platform
-End-to-end data engineering architecture.
+<img src="https://streak-stats.demolab.com?user=divyansh-cloudops&theme=tokyonight&hide_border=true"/>
 
-A production-style data platform designed around a modern Bronze → Silver → Gold architecture.
+</p>
 
-🔧 Tech
-Python SQL PostgreSQL PySpark Airflow dbt Snowflake Docker
+---
 
-🏗️ Architecture
-Raw Data
-   ↓
-🥉 Bronze
-   ↓
-🥈 Silver
-   ↓
-🥇 Gold
-   ↓
-Analytics / BI
-The project focuses on data ingestion, transformation, orchestration, data quality, and analytics-ready datasets.
+# 📌 Featured Projects
 
-🏆 Achievements
-🏅 OpenAI NextWave Buildathon Selected for State-Level Buildathon
+| Project | Description |
+|----------|-------------|
+| ☁ AWS EC2 Web Server | Apache Web Server on EC2 |
+| 🐳 Docker Projects | Docker Hands-on Labs |
+| ☸ Kubernetes Labs | Pods, Deployments & Services |
+| 🌍 Terraform | Infrastructure as Code |
+| ⚙ Jenkins | CI/CD Pipelines |
+| 🐧 Linux | Linux Commands & Administration |
+| 🐍 Python | Automation Scripts |
 
-🏅 GHCI AI Hackathon Qualified Round 1
+---
 
-🏅 NxtWave OpenAI Academy Buildathon Qualified Round 1
+# 📚 Currently Learning
 
-🏆 RIT Campus Hackathon Top team / Finalist
+- AWS ECS
+- Kubernetes
+- Terraform
+- Jenkins
+- Docker Compose
+- Linux Shell Scripting
+- GitHub Actions
 
-📚 Currently Learning
-                AI FULL-STACK ENGINEERING
-                           │
-          ┌────────────────┼────────────────┐
-          ↓                ↓                ↓
-       Frontend         Backend            AI
-          │                │                │
-       React.js         FastAPI           GenAI
-       JavaScript       Node.js            LLMs
-       Tailwind         REST APIs          RAG
-          │                │             Embeddings
-          └────────────────┼────────────────┘
-                           ↓
-                       DATABASES
-                           │
-                    SQL • PostgreSQL
-                    MongoDB • Vector DB
-                           │
-                           ↓
-                       CLOUD
-                           │
-                     Azure • Docker
-🤝 Let's Connect
-  
-💡 Build. Learn. Break. Fix. Repeat.
-Thanks for visiting my profile! 🚀
+---
+
+ 
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/divyanshsaini14/">
+
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+
+</a>
+
+<a href="divyanshsaini327@gmail.com">
+
+<img src="https://skillicons.dev/icons?i=gmail"/>
+
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ If you like my work, don't forget to star my repositories ⭐
+
+</p>
